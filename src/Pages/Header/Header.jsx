@@ -17,9 +17,6 @@ const Header = () => {
           </h3>
         </div>
       </div>
-      <div className="letest_bar">
-        <h2>letest</h2>
-      </div>
     </div>
   );
 };

@@ -1,0 +1,41 @@
+.main_findus_conrainer {
+  padding: 20px;
+}
+
+.fintus_inner_conrain {
+  height: auto;
+  width: 100%;
+  border-radius: 8px;
+  border: 1px solid #c0c0c1;
+}
+
+.social_box {
+  height: auto;
+  width: 100%;
+  padding: 10px;
+}
+
+.w_zone_main_conrainer {
+  height: auto;
+  width: 100%;
+  padding: 10px;
+  background-color: #f3f3f3;
+}
+
+.image_box img {
+  height: auto;
+  width: 100%;
+}
+
+.main_newspaper_bener_container {
+  height: auto;
+  width: 100%;
+  padding: 10px;
+  margin-top: 10px;
+}
+
+.main_iner_beber_contain {
+  height: auto;
+  width: 100%;
+  background-image: url("https://i.ibb.co/tq0Jwk3/bg.png");
+}

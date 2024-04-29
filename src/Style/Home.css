@@ -1,0 +1,10 @@
+.breaking_news_conrainer {
+  padding: 10px;
+  margin: 40px 0 40px 0;
+  background-color: #f3f3f3;
+}
+
+.breaking_news_onner_conrain {
+  display: flex;
+  align-items: center;
+}
